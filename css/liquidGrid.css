@@ -373,3 +373,6 @@ img {
     font-style: italic;
     text-align: center;
   }
+  .oneGrid {
+    margin: 0 0 2.5em 0;
+  }
