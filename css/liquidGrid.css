@@ -373,6 +373,15 @@ img {
     font-style: italic;
     text-align: center;
   }
+    .row span {
+      background:rgba(222,0,0,0.9);
+      line-height: 1.875em;
+      color:#fff;
+      font-size: 1em;
+      font-style: italic;
+      text-align: center;   
+    }
+
   .oneGrid {
     margin: 0 0 2.5em 0;
   }
